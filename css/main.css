@@ -303,13 +303,13 @@ margin: 10px;
     --black: #000000;
     --gray: #808080;
   }
-  
+/*   
   html{
     font-size: 62.5%;
     overflow-x: hidden;
     scroll-padding-top: 6rem;
     scroll-behavior: smooth;
-  }
+  } */
   
   *{
     font-family: 'Nunito', sans-serif;
@@ -564,7 +564,7 @@ margin: 10px;
 }
 /* media queries  */
 
-@media (max-width:1200px){
+/* @media (max-width:1200px){
     html{
       font-size: 55%;
     }
@@ -611,4 +611,4 @@ margin: 10px;
         grid-template-columns: repeat(2, 1fr);
         align-items: center;
     }
-}
+} */
